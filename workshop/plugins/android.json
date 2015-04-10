@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [
+            {
+                "plugin": "org.apache.cordova.device",
+                "vars": {},
+                "topLevel": true
+            },
+            {
+                "plugin": "org.apache.cordova.console",
+                "vars": {},
+                "topLevel": true
+            },
+            {
+                "plugin": "org.apache.cordova.dialogs",
+                "vars": {},
+                "topLevel": true
+            }
+        ],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {},
+    "dependent_plugins": {}
+}
